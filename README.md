@@ -1,4 +1,9 @@
-<h1>Welcome, I'm Bradey Roff! <br/><a href="https://github.com/BradRoff">Programmer</a>, <a href="https://www.linkedin.com/in/brad-roff/">Cybersecurity Professional</a>,
+<h1>Welcome, I'm Bradey Roff! <br/><a href="https://github.com/BradRoff">Programmer</a> and inspiring <a href="https://www.linkedin.com/in/brad-roff/">Cybersecurity Professional</a>!
+  <h2>
+   (☞ﾟヮﾟ)☞  SOC Analyst Reaserch and Projects!
+  <h2>
+    - SOC Analyst Learning Path (Lets defend 25 parts in progress)
+    -
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 <!--
