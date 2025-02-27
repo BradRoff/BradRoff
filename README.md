@@ -26,7 +26,10 @@
 - <b><a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
 
 Related Sites:
+<h2> 🤳 Connect with me:</h2>
 
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/brad-roff/
 <!--
 - <b>PowerShell</b>
