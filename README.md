@@ -14,7 +14,7 @@
      - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
   
 
-<h3>👨‍💻 Coursera Certifications:</h3>
+<h3>Coursera Certifications:</h3>
 
 - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a></b>
   
@@ -25,7 +25,8 @@
 - <b><a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a></b></b>
 - <b><a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
 
-
+[linkedin]: https://www.linkedin.com/in/brad-roff/
+<!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
