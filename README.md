@@ -14,11 +14,16 @@
      - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
   
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h3>👨‍💻 Coursera Certifications:</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a></b>
   
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b><a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a></b>
+- <b><a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a></b>
+<h3>Lets Defend</h3></br>
+<h3>Related proejcts</h3>
+- <b><a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a></b></b>
+- <b><a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
 
 
 - <b>PowerShell</b>
