@@ -5,13 +5,13 @@
    (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
     <h3>Coursera Certifications</h3>
-    - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a>
-    - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a>
-    - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a>
-    <h3>Lets Defend</h3>
-    <h3>Related proejcts</h3>
-    - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a>
-    - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a>
+    - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a></br>
+    - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a></br>
+    - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a></br>
+    <h3>Lets Defend</h3></br>
+    <h3>Related proejcts</h3></br>
+    - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a></br>
+    - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></br>
   
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
