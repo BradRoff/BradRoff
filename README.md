@@ -1,11 +1,18 @@
 <h1>Welcome, I'm Bradey Roff! <br/><a href="https://github.com/BradRoff">Programmer</a> and inspiring <a href="https://www.linkedin.com/in/brad-roff/">Cybersecurity Professional</a>!
-  <!--
+ 
+  
   <h2>
-   (☞ﾟヮﾟ)☞  SOC Analyst Reaserch and Projects!
+   (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
-    - SOC Analyst Learning Path (Lets defend 25 parts in progress)
-    -
-  --!>
+    <h3>Coursera Certifications</h3>
+    - <a hreff = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a>
+    - <a hreff = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a>
+    - <a hreff = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a>
+    <h3>Lets Defend</h3>
+    <h3>Related proejcts</h3>
+    - <a hreff="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a>
+    - <a hreff="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a>
+  
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
 <!--
