@@ -4,7 +4,7 @@
   <h2>
    (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
-    -<h3>Coursera Certifications</h3>
+    <h3>Coursera Certifications</h3>
       - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a></n>
       - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a></n>
       -<a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a></b>
