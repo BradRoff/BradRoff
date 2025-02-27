@@ -4,14 +4,14 @@
   <h2>
    (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
-    <h3>Coursera Certifications</h3>
+    -<h3>Coursera Certifications</h3>
      - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a></n>
      - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a></n>
      -<a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a></b>
-    <h3>Lets Defend</h3></br>
-    <h3>Related proejcts</h3></br>
-    - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a></b>
-    - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
+    -<h3>Lets Defend</h3></br>
+    -<h3>Related proejcts</h3></br>
+     - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Capturing packets with Wireshark</a></b>
+     - <a href="https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Examining TCP/IP Protocols</a></b>
   
 
 <h2>👨‍💻 Software Development Projects:</h2>
