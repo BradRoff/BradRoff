@@ -4,7 +4,8 @@
   <h2>
    (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
- ### Coursera Certifications:
+
+   ### Coursera Certifications:
 
 - [Google Cybersecurity Professional Certificate](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
 - [Google IT Support Professional Certificate](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
