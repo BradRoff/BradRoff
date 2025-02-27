@@ -5,13 +5,14 @@
    (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
 
-   ### Coursera Certifications:
+### Coursera Certifications:
 
 - [Google Cybersecurity Professional Certificate](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
 - [Google IT Support Professional Certificate](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
 - [IBM Security Analyst Fundamentals Specialization](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
 
 ### Lets Defend
+
 
 ### Related Projects:
 
@@ -20,9 +21,9 @@
 - [Capturing packets with Wireshark](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
 - [Examining TCP/IP Protocols](https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg)
 
+### Related Sites:
 
-
-Related Sites:
+- [Linkedin](https://www.linkedin.com/in/brad-roff/)
 <h2> 🤳 Connect with me:</h2>
 
 
