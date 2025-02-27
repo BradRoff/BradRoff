@@ -5,6 +5,8 @@
    (☞ﾟヮﾟ)☞  Click a link to see one of my certification journeys!
   <h2>
     -<h3>Coursera Certifications</h3>
+   - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
      - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google Cybersecurity Professional Certificate</a></n>
      - <a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">Google IT Support Professional Certificate</a></n>
      -<a href = "https://raw.githubusercontent.com/BradRoff/write-up/refs/heads/main/coursera/img/GITS.jpeg">IBM Security Analyst Fundamentals Specialization</a></b>
