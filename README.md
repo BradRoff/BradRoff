@@ -24,6 +24,6 @@
 
 - [Linkedin](https://www.linkedin.com/in/brad-roff/)
 - [My website](https://cyberbrad.info/)
-<h2> 🤳 Connect with me:</h2>
+
 
 
