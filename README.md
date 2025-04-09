@@ -1,4 +1,4 @@
-<h1>Welcome, I'm Bradey Roff! <br/><a href="https://github.com/BradRoff">Programmer</a> and inspiring <a href="https://www.linkedin.com/in/brad-roff/">Cybersecurity Professional</a>!
+<h1>Welcome, I'm Bradey Roff! <br/><a href="https://github.com/BradRoff">Programmer</a> and aspiring <a href="https://www.linkedin.com/in/brad-roff/">Cybersecurity Professional</a>!
  
   
   <h2>
